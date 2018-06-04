@@ -1,0 +1,10 @@
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\bin\Debug\星宇超市收银软件注册机.exe.config
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\bin\Debug\星宇超市收银软件注册机.exe
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\bin\Debug\星宇超市收银软件注册机.pdb
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\obj\Debug\星宇超市收银软件注册机.csprojAssemblyReference.cache
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\obj\Debug\星宇超市收银软件注册机.Form1.resources
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\obj\Debug\星宇超市收银软件注册机.Properties.Resources.resources
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\obj\Debug\星宇超市收银软件注册机.csproj.GenerateResource.cache
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\obj\Debug\星宇超市收银软件注册机.csproj.CoreCompileInputs.cache
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\obj\Debug\星宇超市收银软件注册机.exe
+C:\Users\topiv\AppData\Local\Temporary Projects\星宇超市收银软件注册机\obj\Debug\星宇超市收银软件注册机.pdb
