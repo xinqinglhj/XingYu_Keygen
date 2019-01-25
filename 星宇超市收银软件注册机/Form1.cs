@@ -26,7 +26,7 @@ namespace 星宇超市收银软件注册机
                 MessageBox.Show("请输入用户名！");
                 return;
             }
-            string hardID = VerifyHandler.GetHardID();
+            string hardID = hardIDtext.Text;
 
             key.Text = VerifyHandler.GetSNByHardID(hardID, name);
         }
